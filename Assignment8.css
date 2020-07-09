@@ -1,0 +1,22 @@
+.class1{
+    border: solid black;
+    background-color: cadetblue;
+    border-width: 5px;
+    margin-bottom: 1.5em;
+}
+.class2{
+    border: solid black;
+    background-color: cadetblue;
+    border-width: 2px;
+    margin-bottom: 1.5em;
+}
+.class3{
+    border: solid black;
+    background-color: lightskyblue;
+    border-width: 1px;
+    margin-bottom: 1.5em;
+
+}
+/* .oneandhalf{
+    line-height: 1.5em;
+} */

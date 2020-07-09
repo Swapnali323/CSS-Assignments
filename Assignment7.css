@@ -1,0 +1,5 @@
+a.outline{
+    border: 2px solid orangered;
+    outline-style: dotted;
+    outline-color: green;
+}
